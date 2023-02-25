@@ -1,1 +1,2 @@
 This is just a dummy file to get git to recognize the folder
+Test for git
